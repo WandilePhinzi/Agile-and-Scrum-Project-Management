@@ -26,3 +26,9 @@ A feature base branching strategy will also be used for project 4 and 5.
 Security concerns and Best Practices:
 The storage of credentials and sensitive information is a crucial part of this project. Improper storage can lead to data breaches and compromise valuable information
 It is important to protect credentials and sensitive information, this can be done by using storage methods such as encryoted configuration files, secure storage systems and password managers
+
+Lean Documentation Link
+https://nwuac-[my.sharepoint.com/:w:/r/personal/41580117_mynwu_ac_za/Documents/Lean%20Technical%20Documentation%20Template%201.docx?d=w760fd1b71f22461a95c9693f29dc146b&csf=1&web=1&e=DZPzji](https://nwuac-my.sharepoint.com/:w:/r/personal/41580117_mynwu_ac_za/Documents/Lean%20Technical%20Documentation%20Template%201.docx?d=w760fd1b71f22461a95c9693f29dc146b&csf=1&web=1&e=AVNuZn)
+
+Burndown Chart documentation
+[https://nwuac-my.sharepoint.com/:w:/r/personal/41580117_mynwu_ac_za/Documents/Lean%20Technical%20Documentation%20Template%201.docx?d=w760fd1b71f22461a95c9693f29dc146b&csf=1&web=1&e=DZPzji](https://nwuac-my.sharepoint.com/:x:/r/personal/41580117_mynwu_ac_za/Documents/Burndown%20Chart%201.xlsx?d=wb35c5f10e1734295ab4c15c2cbe1d166&csf=1&web=1&e=szT2iV)
