@@ -1,18 +1,18 @@
 # Project Overview:
-This repository contains information about project 1. As well as the planning and deadlines of each of the five projects to be completed this semester. It also includes resources for the CMPG 323 module
+This repository contains information about the Agile and Scrum Project Management. As well as the planning and deadlines of each of the five projects to be completed this semester. It also includes resources for the CMPG 323 module
 
 ## Project Structure:
-In the CMPG-323-Overview-41580117 repository.A github Kanban project is setup to keep track of the current work for all 5 projects throughout the semester effectively.
-For project 2. A repository CMPG-323- Project 2 will be created and will be used to complete Project 2.  Which requires the implementation of CRUD RESTful that connects to a database storing basic telemetry data
-A repository will be created for Porject 3 named CMPG 323 Project 3 41580117. This project will include an existing Blazor Application which needs to be enhanced and improved that manages project and client data with CRUD functionalities as part of project 3.
-For project 4, a new repository will be created namly CMPG 323 Project 4 to manage the UiPath project effectively.
-For ptoject 5 , a CMPG 323 Project 5 repository will be created to keep track of the powerBI report and data models
+In the Agile and Scrum Project Management repository.A github Kanban project is setup to keep track of the current work for all 5 projects throughout the semester effectively.
+For API Development project. A repository API Development will be created and will be used to complete Project 2.  Which requires the implementation of CRUD RESTful that connects to a database storing basic telemetry data
+A repository will be created for Blazor Application Development project named Blazor Application Development repository. This project will include an existing Blazor Application which needs to be enhanced and improved that manages project and client data with CRUD functionalities as part of project 3.
+For UIPath Test Automation project, a new repository will be created namly UIPath Test Automation repository to manage the UiPath project effectively.
+For Reporting project , a Power BI repository will be created to keep track of the powerBI report and data models
 
 ## Development Methodolodies to be used:
-- Project 2: C#
-- Project 3: C#
-- Project 4: UiPath
-- Project 5: PowerBI
+- API Development: C#
+- Blazor Application Development: C#
+- UIPath Test Automation: UiPath
+- Reporting: PowerBI
 
 ## Importance of gitignore in each project:
 A git.ignore for project 1 would be useful to keep the repository clean as it reduces the risk of merge conflicts by ignoring unnecessary files and also improves collaboration.
